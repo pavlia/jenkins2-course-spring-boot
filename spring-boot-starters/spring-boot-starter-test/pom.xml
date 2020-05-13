@@ -10,10 +10,10 @@
 	<name>Spring Boot Test Starter</name>
 	<description>Starter for testing Spring Boot applications with libraries including
 		JUnit, Hamcrest and Mockito</description>
-	<url>http://projects.spring.io/spring-boot/</url>
+	<url>https://projects.spring.io/spring-boot/</url>
 	<organization>
 		<name>Pivotal Software, Inc.</name>
-		<url>http://www.spring.io</url>
+		<url>https://www.spring.io</url>
 	</organization>
 	<properties>
 		<main.basedir>${basedir}/../..</main.basedir>
